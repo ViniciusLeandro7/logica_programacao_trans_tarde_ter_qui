@@ -1,0 +1,14 @@
+C:\Users\vinicius.lmacedo\source\repos\logicadeprogramacãotercaquinta\logicadeprogramacãotercaquinta\bin\Debug\net8.0\logicadeprogramacãotercaquinta.exe
+C:\Users\vinicius.lmacedo\source\repos\logicadeprogramacãotercaquinta\logicadeprogramacãotercaquinta\bin\Debug\net8.0\logicadeprogramacãotercaquinta.deps.json
+C:\Users\vinicius.lmacedo\source\repos\logicadeprogramacãotercaquinta\logicadeprogramacãotercaquinta\bin\Debug\net8.0\logicadeprogramacãotercaquinta.runtimeconfig.json
+C:\Users\vinicius.lmacedo\source\repos\logicadeprogramacãotercaquinta\logicadeprogramacãotercaquinta\bin\Debug\net8.0\logicadeprogramacãotercaquinta.dll
+C:\Users\vinicius.lmacedo\source\repos\logicadeprogramacãotercaquinta\logicadeprogramacãotercaquinta\bin\Debug\net8.0\logicadeprogramacãotercaquinta.pdb
+C:\Users\vinicius.lmacedo\source\repos\logicadeprogramacãotercaquinta\logicadeprogramacãotercaquinta\obj\Debug\net8.0\logicadeprogramacãotercaquinta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.lmacedo\source\repos\logicadeprogramacãotercaquinta\logicadeprogramacãotercaquinta\obj\Debug\net8.0\logicadeprogramacãotercaquinta.AssemblyInfoInputs.cache
+C:\Users\vinicius.lmacedo\source\repos\logicadeprogramacãotercaquinta\logicadeprogramacãotercaquinta\obj\Debug\net8.0\logicadeprogramacãotercaquinta.AssemblyInfo.cs
+C:\Users\vinicius.lmacedo\source\repos\logicadeprogramacãotercaquinta\logicadeprogramacãotercaquinta\obj\Debug\net8.0\logicadeprogramacãotercaquinta.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.lmacedo\source\repos\logicadeprogramacãotercaquinta\logicadeprogramacãotercaquinta\obj\Debug\net8.0\logicadeprogramacãotercaquinta.dll
+C:\Users\vinicius.lmacedo\source\repos\logicadeprogramacãotercaquinta\logicadeprogramacãotercaquinta\obj\Debug\net8.0\refint\logicadeprogramacãotercaquinta.dll
+C:\Users\vinicius.lmacedo\source\repos\logicadeprogramacãotercaquinta\logicadeprogramacãotercaquinta\obj\Debug\net8.0\logicadeprogramacãotercaquinta.pdb
+C:\Users\vinicius.lmacedo\source\repos\logicadeprogramacãotercaquinta\logicadeprogramacãotercaquinta\obj\Debug\net8.0\logicadeprogramacãotercaquinta.genruntimeconfig.cache
+C:\Users\vinicius.lmacedo\source\repos\logicadeprogramacãotercaquinta\logicadeprogramacãotercaquinta\obj\Debug\net8.0\ref\logicadeprogramacãotercaquinta.dll
