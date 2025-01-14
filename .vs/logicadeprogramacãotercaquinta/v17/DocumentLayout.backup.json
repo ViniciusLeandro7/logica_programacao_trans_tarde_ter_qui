@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\vinicius.lmacedo\\source\\repos\\logicadeprogramac\u00E3otercaquinta\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D1FB73ED-3617-449A-89E3-15A88164D841}|ex05\\ex05.csproj|c:\\users\\vinicius.lmacedo\\source\\repos\\logicadeprogramac\u00E3otercaquinta\\ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FB73ED-3617-449A-89E3-15A88164D841}|ex05\\ex05.csproj|solutionrelative:ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA585E97-F655-4592-A3F9-5783E903AB87}|ex04\\ex04.csproj|c:\\users\\vinicius.lmacedo\\source\\repos\\logicadeprogramac\u00E3otercaquinta\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA585E97-F655-4592-A3F9-5783E903AB87}|ex04\\ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,18 +36,35 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius.lmacedo\\source\\repos\\logicadeprogramac\u00E3otercaquinta\\ex05\\Program.cs",
+              "RelativeDocumentMoniker": "ex05\\Program.cs",
+              "ToolTip": "C:\\Users\\vinicius.lmacedo\\source\\repos\\logicadeprogramac\u00E3otercaquinta\\ex05\\Program.cs",
+              "RelativeToolTip": "ex05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:49:12.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vinicius.lmacedo\\source\\repos\\logicadeprogramac\u00E3otercaquinta\\ex04\\Program.cs",
               "RelativeDocumentMoniker": "ex04\\Program.cs",
-              "ToolTip": "C:\\Users\\vinicius.lmacedo\\source\\repos\\logicadeprogramac\u00E3otercaquinta\\ex04\\Program.cs*",
-              "RelativeToolTip": "ex04\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\vinicius.lmacedo\\source\\repos\\logicadeprogramac\u00E3otercaquinta\\ex04\\Program.cs",
+              "RelativeToolTip": "ex04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T19:15:04.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vinicius.lmacedo\\source\\repos\\logicadeprogramac\u00E3otercaquinta\\ex03\\Program.cs",
               "RelativeDocumentMoniker": "ex03\\Program.cs",
@@ -51,12 +72,11 @@
               "RelativeToolTip": "ex03\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T17:59:37.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T17:59:37.588Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vinicius.lmacedo\\source\\repos\\logicadeprogramac\u00E3otercaquinta\\ex02\\Program.cs",
               "RelativeDocumentMoniker": "ex02\\Program.cs",
@@ -64,12 +84,11 @@
               "RelativeToolTip": "ex02\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T17:48:38.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T17:48:38.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vinicius.lmacedo\\source\\repos\\logicadeprogramac\u00E3otercaquinta\\logicadeprogramac\u00E3otercaquinta\\Program.cs",
               "RelativeDocumentMoniker": "logicadeprogramac\u00E3otercaquinta\\Program.cs",
@@ -78,10 +97,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T16:53:06.116Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
